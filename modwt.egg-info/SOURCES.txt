@@ -1,0 +1,9 @@
+README.md
+setup.py
+modwt/__init__.py
+modwt/modwt.py
+modwt.egg-info/PKG-INFO
+modwt.egg-info/SOURCES.txt
+modwt.egg-info/dependency_links.txt
+modwt.egg-info/requires.txt
+modwt.egg-info/top_level.txt
