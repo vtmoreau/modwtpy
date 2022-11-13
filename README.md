@@ -1,14 +1,14 @@
 # modwtpy
-modwt in python
+## MODWT in python
 
-find the detail from the matlab Documentation:
-http://www.mathworks.com/help/wavelet/ref/modwt.html,
-http://www.mathworks.com/help/wavelet/ref/modwtmra.html,
+Detail from the matlab Documentation:
+- http://www.mathworks.com/help/wavelet/ref/modwt.html,
+- http://www.mathworks.com/help/wavelet/ref/modwtmra.html
 
-and the wavelet is imported from pywt:
+The wavelet is imported from pywt:
 http://www.pybytes.com/pywavelets/ref/wavelets.html
 
-##Example:
+## Example
 ```python
 from modwt import modwt, modwtmra
 import pandas as pd
